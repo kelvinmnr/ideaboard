@@ -8,7 +8,7 @@
 ideas = Idea.create(
   [
     {
-      title: "A new cake recipe",
+      title: "Let me explain",
       body: "Made of chocolate"
     },
     {
